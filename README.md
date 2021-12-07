@@ -14,7 +14,6 @@ dados relativos ao auxílio emergencial do ano de 2020 e 2021.
 ## Ferramentas Utilizadas
 
 - Boostrap;
-- Codeigniter 2.2.6;
 - Folha de estilo criada do zero;
 - Plugins JS;
 - Pligins materialdesignicons.css
