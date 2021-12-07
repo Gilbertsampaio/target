@@ -4,11 +4,12 @@
 
 ## Link para acessar exemplo do site
 
-https://www.gmeloweb.com.br/temaWordpress/
+https://www.gmeloweb.com.br/target/
 
-## Projeto para o desenvolvimento de um tema wordpress
+## Projeto para o desenvolvimento de uma aplicação frontend
 
-- O projeto consiste na criação de uma home.
+- Construir uma aplicação frontend que deverá consumir dois serviços web para disponibilização de
+dados relativos ao auxílio emergencial do ano de 2020 e 2021.
 
 ## Ferramentas Utilizadas
 
@@ -26,4 +27,4 @@ https://www.gmeloweb.com.br/temaWordpress/
 
 - 1º Abra o Git, defina o diretório onde ficará o projeto e escreva o comando:
 
-* git clone https://github.com/Gilbertsampaio/temaWordpress.git
+* git clone https://github.com/Gilbertsampaio/target.git
